@@ -45,9 +45,11 @@ This project automates **end-to-end Windows EC2 security lifecycle** in an Auto 
 ## Setup
 
 git clone https://github.com/Mamtesh2001/aws-windows-auto-patching-hardening-zero-downtime-asg-terraform-python.git
+
 cd aws-windows-auto-patching-hardening-zero-downtime-asg-terraform-python
 
 # Update variables in terraform/variables.tf
+
 terraform init && terraform apply -auto-approve
 
 python auto_deploy.py
