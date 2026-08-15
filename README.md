@@ -6,7 +6,7 @@ Automates **Windows OS patching**, **CIS hardening**, **golden AMI**, and **zero
 
 ---
 
-## Overview
+## Overview:
 
 This project automates **end-to-end Windows EC2 security lifecycle** in an Auto Scaling Group (ASG):
 
